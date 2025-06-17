@@ -1,7 +1,7 @@
 const gitInfo = {
   branch: "main",
   status: "working tree clean",
-  lastCommit: "Implementada la lógica de obtener permisos"
+  lastCommit: "Realizada la pagina de Registro"
 };
 
 console.log("📦 Proyecto Git");
