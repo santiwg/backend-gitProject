@@ -1,7 +1,7 @@
 const gitInfo = {
   branch: "main",
   status: "working tree clean",
-  lastCommit: "Refactorizado el módulo de autenticación"
+  lastCommit: "Implementada la lógica de obtener permisos"
 };
 
 console.log("📦 Proyecto Git");
